@@ -87,6 +87,10 @@ a:hover {
   .bg-image {
     background-attachment: scroll;
   }
+
+  .service-box {
+    min-height: 430px;
+  }
 }
 
 .overlay-mf {
@@ -756,6 +760,11 @@ a:hover {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.just {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -791,7 +800,7 @@ a:hover {
 # Services
 --------------------------------------------------------------*/
 .service-box {
-  background-color: rgb(207, 189, 189);
+  background-color: rgb(240, 240, 240);
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
