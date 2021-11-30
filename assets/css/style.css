@@ -254,11 +254,11 @@ a:hover {
   height: 100px;
   width: 100px;
   font-size: 2rem;
-  border-radius: 50%;
+  border-radius: 10%;
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #404953;
   display: block;
 }
 
@@ -810,7 +810,7 @@ a:hover {
   transition: all 500ms ease;
   color: #fff;
   background-color: #ffc400;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #568cc9;
 }
 .service-box .service-ico {
   margin-bottom: 1rem;
