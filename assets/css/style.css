@@ -433,10 +433,10 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Header
+# Header`
 --------------------------------------------------------------*/
 .signature {
-  font-family: autography;
+  font-family: "Autography", sans-serif;
   color: rgb(255, 255, 255);
 }
 
